@@ -13,3 +13,4 @@ end
 
 bob = Person.find(1)
 puts bob.inspect
+puts bob.inspect
